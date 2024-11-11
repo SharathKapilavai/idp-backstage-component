@@ -16,14 +16,14 @@ metadata:
 spec:
     type: service
     lifecycle: production
-    owner: idpadmins
-    system: system-project-x
+    owner: sharathkapilavai
+    system: genai-project-x
 
 ---
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-    name: system-project-x
+    name: genai-project-x
     description: Handy tools to keep artists in the loop
 spec:
     owner: sharathkapilavai
