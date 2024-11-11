@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: tech-docs
+  name: service-with-tech-docs
   description: The place to be, for great artists
   annotations:
     backstage.io/techdocs-ref: dir:.
