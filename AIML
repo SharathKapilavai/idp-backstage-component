@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: aiml
+  description: Artificial Intelligence and Machine Learning
+spec:
+  owner: sharathkapilavai
+  subdomainOf: audio-domain
