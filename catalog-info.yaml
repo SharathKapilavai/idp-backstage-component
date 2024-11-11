@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-    name: a-python-library
-    description: A Python Library
+    name: component-python-library
+    description: Example Backstage Component Python Library
     annotations:
         backstage.io/techdocs-ref: dir:.
         github.com/project-slug: pep8speaks-org/pep8speaks
@@ -23,7 +23,7 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-    name: project-x
+    name: system-project-x
     description: Handy tools to keep artists in the loop
 spec:
     owner: artist-relations-team
