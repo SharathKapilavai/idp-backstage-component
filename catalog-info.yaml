@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-    name: component-python-library
+    name: python-service-comp-lib
     description: Example Backstage Component Python Library
     annotations:
         backstage.io/techdocs-ref: dir:.
