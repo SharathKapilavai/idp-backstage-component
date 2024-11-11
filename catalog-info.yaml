@@ -16,7 +16,7 @@ metadata:
 spec:
     type: service
     lifecycle: production
-    owner: sharathkapilavai
+    owner: aiarchitects
     system: genai-project-x
 
 ---
@@ -26,5 +26,5 @@ metadata:
     name: genai-project-x
     description: Handy tools to keep artists in the loop
 spec:
-    owner: sharathkapilavai
+    owner: aiarchitects
     domain: aiml
